@@ -1,0 +1,9 @@
+I feel blessed and I'm happy that i got a promotion.
+(3, 'Positive')
+
+I feel dissapointed for having a fight with my uncle. I was infuriated and insulted by him.
+(-5, 'Negative')
+
+I would feel very sad if i were to fail this subject.
+(-4, 'Negative')
+

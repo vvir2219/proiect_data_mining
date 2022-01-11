@@ -1,0 +1,3382 @@
+﻿abandon	-2
+abandonat	-2
+abandonează	-2
+răpit	-2
+răpire	-2
+răpiri	-2
+detesta	-3
+detestat	-3
+dezgustător	-3
+detestă	-3
+abilități	2
+capacitatea	2
+la bordul	1
+avortat	-1
+avortează	-1
+absent	-1
+absenți	-1
+absolvi	2
+absolvit	2
+absolvă	2
+absolvind	2
+absorbit	1
+abuz	-3
+abuzat	-3
+abuzuri	-3
+abuzând	-3
+abuziv	-3
+Accept	1
+acceptabil	1
+acceptare	1
+admis	1
+acceptând	1
+acceptă	1
+accesibil	1
+accident	-2
+accidental	-2
+accidental	-2
+accidente	-2
+aclama	2
+aclamat	2
+acoladă	2
+realiza	2
+realizat	2
+realizează	2
+realizare	2
+realizări	2
+acuzare	-2
+acuzații	-2
+acuza	-2
+acuzat	-2
+acuza	-2
+acuzând	-2
+durere	-2
+realizabil	1
+durere	-2
+achita	2
+achită	2
+achitat	2
+achitând	2
+acrimonios	-3
+activ	1
+adecvat	1
+admira	3
+admirat	3
+admiră	3
+admirativ	3
+admite	-1
+admite	-1
+admis	-1
+avertiza	-2
+avertizat	-2
+adopta	1
+adoptă	1
+adorabil	3
+adorare	3
+adora	3
+adorat	3
+adora	3
+adorând	3
+cu adorare	3
+avansat	1
+avantaj	2
+avantajos	2
+avantajos	2
+avantaje	2
+aventură	2
+aventuri	2
+aventuros	2
+adversar	-1
+recomandabil	1
+afectat	-1
+afecţiune	3
+afectuos	3
+afectiune	3
+nenorocit	-1
+accesibil	2
+jignit	-1
+pasionati	2
+frică	-2
+agrava	-2
+agravat	-2
+agravează	-2
+agravante	-2
+agresiune	-2
+agresiuni	-2
+agresiv	-2
+agresivitate	-2
+îngrozit	-2
+nerăbdător	2
+agoniza	-3
+agonizat	-3
+agonizează	-3
+agonizant	-3
+agoniza	-3
+agonizat	-3
+agonizează	-3
+agonizant	-3
+de acord	1
+agreabil	2
+de acord	1
+acord	1
+este de acord	1
+alarma	-2
+alarmat	-2
+alarmist	-2
+alarmistilor	-2
+Vai	-1
+alerta	-1
+alienare	-2
+în viaţă	1
+afirmaţie	-2
+acuzații	-2
+alergic	-2
+permite	1
+aliat	2
+singur	-2
+altruist	2
+uimi	2
+uimit	2
+uimește	2
+uimitor	4
+ambiţios	2
+ambivalent	-1
+amiabil	2
+amuza	3
+amuzat	3
+amuzament	3
+amuzamente	3
+furie	-3
+supărat	-3
+furiile	-3
+furios	-3
+angoasa	-3
+angoasa	-3
+animozitate	-2
+deranja	-2
+supărare	-2
+enervat	-2
+enervant	-2
+enervează	-2
+antagonist	-2
+anti	-1
+anticipare	1
+anxietate	-2
+nerăbdător	-2
+apatic	-3
+apatie	-3
+maimuţă	-3
+apocaliptic	-2
+scuza	-1
+a cerut scuze	-1
+se scuza	-1
+cerându-și scuze	-1
+scuza	-1
+a cerut scuze	-1
+se scuza	-1
+cerându-și scuze	-1
+scuze	-1
+îngrozit	-2
+îngrozitor	-2
+atrăgătoare	2
+potoli setea	2
+potolit	2
+potolește	2
+liniștitoare	2
+aplauda	2
+aplaudat	2
+aplaudând	2
+aplaudă	2
+aplauze	2
+a aprecia	2
+apreciat	2
+apreciază	2
+apreciind	2
+apreciere	2
+îngrozitor	-2
+adecvat	2
+în mod corespunzător	2
+aprobare	2
+aprobat	2
+aprobă	2
+înflăcărat	1
+arestare	-2
+arestat	-3
+arestări	-2
+arogant	-2
+nenorocit	-4
+o rusine	-2
+ruşinat	-2
+cur	-4
+asasinat	-3
+asasinate	-3
+asalt	-2
+atacuri	-2
+activ	2
+active	2
+nenorocit	-4
+Idiotule	-4
+uimit	2
+uimesc	3
+uluit	3
+uluitor	3
+uluitor	3
+uimește	3
+atroce	-3
+atrocitate	-3
+atac	-1
+atacat	-1
+atacând	-1
+atacuri	-1
+a atrage	1
+atras	1
+atrăgând	2
+atracţie	2
+atractii	2
+atractiv	2
+atrăgător	2
+atractivitatea	2
+atrage	1
+îndrăzneţ	3
+aură	1
+autoritate	1
+răzbuna	-2
+răzbunat	-2
+răzbunător	-2
+Razbunatorii	-2
+razbuna	-2
+răzbunător	-2
+evita	-1
+evitat	-1
+previne	-1
+avid	2
+evita	-1
+evitat	-1
+evita	-1
+asteapta	-1
+asteptat	-1
+asteapta	-1
+adjudecare	3
+premiat	3
+premii	3
+minunat	4
+îngrozitor	-3
+incomod	-2
+topor	-1
+toporat	-1
+sprijinit	1
+suport	2
+spatele	1
+rău	-3
+ghinion	-2
+șmecher	-3
+prost	-3
+răutate	-3
+plan de salvare	-2
+echilibrat	1
+prosti	-2
+năucită	-2
+bambuzele	-2
+interzice	-2
+alunga	-1
+falimentar	-3
+faliment	-3
+bankster	-3
+interzis	-2
+barbar	-2
+barbar	-2
+barbar	-2
+afacere	2
+barieră	-2
+Bastard	-5
+nenorociţi	-5
+luptă	-1
+luptat	-1
+bătălii	-1
+batalie	-2
+bătut	-2
+beatific	3
+bătaie	-1
+frumuseti	3
+frumos	3
+frumos	3
+înfrumuseţa	3
+frumuseţe	3
+se cuvine	2
+potrivită	2
+slăbit	-2
+slăbit	-2
+iubit	3
+binefăcător	2
+binefăcători	2
+beneficiu	2
+beneficii	2
+beneficiat	2
+beneficiind	2
+binevoitor	3
+îndolii	-2
+îndoliat	-2
+îndoliați	-2
+doliu	-2
+Cel mai bun	3
+la naiba	4
+trăda	-3
+trădare	-3
+tradat	-3
+trădând	-3
+trădează	-3
+mai bine	2
+părtinire	-1
+părtinitoare	-2
+mare	1
+căţea	-5
+căţelele	-5
+amar	-2
+cel mai amar	-2
+amar	-2
+bizar	-2
+şantaj	-3
+șantajat	-3
+șantajarea	-3
+şantaje	-3
+bla	-2
+vina	-2
+blamat	-2
+vina	-2
+blamarea	-2
+binecuvânta	2
+binecuvântează	2
+binecuvântare	3
+binecuvântări	3
+orb	-1
+fericire	3
+fericită	3
+vesel	2
+umflat	-1
+bloc	-1
+blocadă	-2
+blockbuster	3
+blocat	-1
+blocare	-1
+blocuri	-1
+sângeros	-3
+în ceață	-2
+lăudăros	-2
+îndrăzneţ	2
+cu îndrăzneală	2
+bombă	-1
+boost	1
+amplificat	1
+stimularea	1
+stimulează	1
+plictisit	-2
+plictisit	-2
+plictisitor	-3
+deranja	-2
+deranjat	-2
+deranjează	-2
+plicticos	-2
+boicota	-2
+boicotat	-2
+boicotare	-2
+boicoturi	-2
+spălarea creierului	-3
+curajos	2
+curaj	2
+vitejie	2
+bravura	3
+încălcarea	-2
+încălcat	-2
+încălcări	-2
+încălcarea	-2
+descoperire	3
+uluitoare	5
+mită	-3
+mituit	-3
+mita	-3
+mituirea	-3
+luminos	1
+cel mai strălucitor	2
+luminozitatea	1
+Sclipitor	4
+strălucire	3
+străluciri	3
+vioi	2
+rupt	-1
+spart	-1
+chibzuit	-2
+brutal	-3
+brutal	-3
+hărțuiți	-2
+rahat	-4
+bătăuş	-2
+intimidare	-2
+păcat	-2
+plutitor	2
+povară	-2
+împovărat	-2
+împovărătoare	-2
+poveri	-2
+hoț	-2
+efractie	-2
+calm	2
+calmat	2
+calmant	2
+calmeaza	2
+nu suporta	-3
+Anulare	-1
+anulat	-1
+anularea	-1
+anulează	-1
+cancer	-1
+capabilități	1
+capacitatea	1
+capabil	1
+captivat	3
+îngrijire	2
+fără griji	1
+atent	2
+cu grija	2
+grijă	2
+neglijent	-2
+îi pasă	2
+îngrijirea	2
+încasare	-2
+accidentat	-2
+catastrofă	-3
+catastrofale	-4
+precaut	-1
+sărbători	3
+sărbătorit	3
+sărbătorește	3
+sărbătorind	3
+celebrare	3
+sarbatori	3
+cenzura	-2
+cenzurat	-2
+cenzorii	-2
+anumit	1
+mâhnire	-2
+supărat	-2
+provocare	-1
+campion	2
+susţinut	2
+campioni	2
+şansă	2
+sanse	2
+haos	-2
+haotic	-2
+taxat	-3
+taxe	-2
+carisma	2
+caritabil	2
+farmec	3
+fermecător	3
+fermecător	3
+fără farmec	-3
+pedepsi	-3
+pedepsit	-3
+pedepsește	-3
+pedepsirea	-3
+trișa	-3
+înșelat	-3
+trișor	-3
+trișori	-3
+înșelăciune	-3
+înșelătorii	-3
+ridica moralul	2
+aplaudat	2
+bine dispus	2
+vesel	2
+aplauze	2
+trist	-2
+noroc	2
+vesel	3
+preţuieşte	2
+preţuit	2
+prețuiește	2
+preţuind	2
+şic	2
+mustrează	-3
+mustrat	-3
+mustrări	-3
+mustrând	-3
+copilăresc	-2
+înfiorătoare	-1
+sufoca	-2
+sufocat	-2
+se sufoca	-2
+sufocare	-2
+clarifică	2
+claritate	2
+ciocnire	-2
+de clasă	3
+curat	2
+curățător	2
+clar	1
+degajat	1
+clar	1
+curăță	1
+inteligent	2
+înnorat	-1
+necunoscut	-2
+cocoş	-5
+cocoșul	-5
+cocoșii	-5
+obraznic	-2
+constrâns	-2
+constrângere	-2
+colaps	-2
+prăbușit	-2
+se prăbușește	-2
+prăbușindu-se	-2
+se ciocnesc	-1
+se ciocnește	-1
+ciocnind	-1
+coliziune	-2
+ciocniri	-2
+colizind	-3
+luptă	-1
+lupte	-1
+comedie	1
+confort	2
+confortabil	2
+confortabil	2
+reconfortant	2
+confort	2
+comic	1
+lauda	2
+lăudat	2
+comite	1
+angajament	2
+comite	1
+comis	1
+comiterea	1
+compasiune	2
+Milos	2
+obligat	1
+competențe	1
+competente	2
+competitiv	2
+mulțumit	-2
+plangeti	-2
+reclamat	-2
+plângându-se	-2
+se plange	-2
+plângere	-2
+reclamații	-2
+complicându-se	-2
+compliment	2
+complimentat	2
+complimente	2
+cuprinzător	2
+îngrijorat	-2
+concilia	2
+conciliat	2
+conciliază	2
+conciliere	2
+condamna	-2
+condamnare	-2
+condamnat	-2
+condamnă	-2
+încredere	2
+încrezător	2
+cu încredere	2
+conflict	-2
+conflictuale	-2
+conflictuale	-2
+conflicte	-2
+confunda	-2
+confuz	-2
+confuz	-2
+felicitări	2
+va felicit	2
+felicitare	2
+Felicitări	2
+consimţământ	2
+consimțământul	2
+consolabil	2
+conspiraţie	-3
+constipație	-2
+constrâns	-2
+contagiune	-2
+contagii	-2
+contagios	-1
+contaminat	-2
+contaminanți	-2
+contamina	-2
+contaminate	-2
+contaminează	-2
+contaminantă	-2
+contaminare	-2
+contaminari	-2
+dispreţ	-2
+dispreţuitor	-2
+dispreţuitor	-2
+dispreţuitor	-2
+lupta	-1
+pretendent	-1
+luptand	-1
+contencios	-2
+contestabil	-2
+controversat	-2
+în mod controversat	-2
+controverse	-2
+controversă	-2
+condamnat	-2
+convinge	1
+convins	1
+convinge	1
+convivial	2
+rece	1
+chestii tari	3
+încolţit	-2
+cadavru	-1
+corupt	-3
+corupt	-3
+corupând	-3
+corupţie	-3
+corupe	-3
+costisitoare	-2
+curaj	2
+curajos	2
+cu curaj	2
+curaj	2
+politicos	2
+curtoazie	2
+mușamaliza	-3
+laş	-2
+fricos	-2
+confortul	2
+crampe	-1
+rahat	-3
+nasol	-3
+prăbușire	-2
+mai nebunesc	-2
+cel mai nebun	-2
+nebun	-2
+creativ	2
+deprimat	-2
+a strigat	-2
+strigă	-2
+crima	-3
+crime	-3
+penal	-3
+criminali	-3
+incrimina	-3
+incriminat	-3
+incriminează	-3
+criză	-3
+critic	-2
+a critica	-2
+criticat	-2
+critică	-2
+criticând	-2
+critică	-2
+a critica	-2
+criticat	-2
+critică	-2
+criticând	-2
+criticii	-2
+critică	-2
+înghesuială	-1
+brut	-1
+crud	-3
+cruzime	-3
+zdrobi	-1
+zdrobit	-2
+zdrobește	-1
+strivire	-1
+strigăt	-1
+plângând	-2
+viclean	2
+ticălos	-5
+curios	1
+blestem	-1
+a tăia	-1
+reduce	-2
+reduceri	-2
+drăguţ	2
+tăieturi	-1
+tăiere	-1
+cinic	-2
+cinic	-2
+cinism	-2
+deteriora	-3
+deteriorat	-3
+daune	-3
+dăunătoare	-3
+La naiba	-2
+al naibii de dragut	3
+al naibii de bine	4
+blestemat	-4
+la naiba	-4
+Pericol	-2
+periculos	-2
+periculos	-2
+temeroasa	2
+îndrăzneț	2
+cel mai întunecat	-2
+întuneric	-1
+neînfricat	2
+orbitoare	3
+mort	-3
+amortitoare	-2
+impas	-2
+mortal	-3
+asurzitor	-1
+dragă	2
+scump	3
+moarte	-2
+decese	-2
+degajat	2
+creanţă	-2
+înşelăciune	-3
+înşelător	-3
+înşela	-3
+înşelat	-3
+înșală	-3
+înşelător	-3
+înşelăciune	-3
+înșelător	-3
+decisiv	1
+dedicat	2
+dedicare	2
+înfrângere	-2
+învins	-2
+defect	-3
+defect	-3
+defecte	-3
+apărător	2
+apărători	2
+fără apărare	-2
+amâna	-1
+amânând	-1
+sfidător	-1
+deficient	-2
+deficienta	-2
+deficiențe	-2
+deficit	-2
+deformat	-2
+deformări	-2
+deformare	-2
+frauda	-3
+fraude	-3
+abil	2
+defunct	-2
+degrada	-2
+degradat	-2
+se degradează	-2
+dezumaniza	-2
+dezumanizat	-2
+dezumanizează	-2
+dezumanizant	-2
+abătut	-2
+abătut	-2
+abătut	-2
+abate	-2
+întârziere	-1
+întârziat	-1
+delicios	3
+delicios	3
+încântare	3
+Încântat	3
+încântător	3
+fermecător	3
+incantatoare	3
+delicii	3
+cerere	-1
+a cerut	-1
+exigentă	-1
+cereri	-1
+demonstrație	-1
+demoraliza	-2
+demoralizat	-2
+demoralizează	-2
+demoralizant	-2
+negare	-2
+negări	-2
+negat	-2
+negator	-2
+negatori	-2
+neagă	-2
+denunţa	-2
+denunta	-2
+adâncitură	-2
+nega	-2
+negând	-2
+deplânge	-3
+deplorat	-3
+deplânge	-3
+deplângând	-3
+deporta	-2
+deportat	-2
+deportând	-2
+deportează	-2
+deportare	-2
+deportări	-2
+deprimat	-2
+deprimant	-2
+privare	-3
+deraia	-2
+deraiat	-2
+deraiere	-2
+abandonat	-2
+batjocoresc	-2
+batjocorit	-2
+batjocorește	-2
+batjocorind	-2
+derizoriu	-2
+de dorit	2
+dorință	1
+dorit	2
+doritor	2
+disperare	-3
+disperat	-3
+deznădejdii	-3
+disperat	-3
+cu disperare	-3
+descurajat	-3
+distruge	-3
+distrus	-3
+distrugând	-3
+distruge	-3
+distrugere	-3
+distructiv	-3
+detașat	-1
+reţine	-2
+reţinut	-2
+detenţie	-2
+deteriora	-2
+deteriorat	-2
+se deteriorează	-2
+deteriorarea	-2
+determinat	2
+descurajant	-2
+detrage	-1
+distrat	-1
+scade	-1
+devasta	-2
+devastată	-2
+devastator	-2
+devastare	-2
+devastările	-2
+devotat	3
+devotament	2
+devoțional	2
+diamant	1
+pula	-4
+nebun	-4
+a muri	-3
+decedat	-3
+dificil	-1
+nepăsător	-2
+demnitate	2
+dilemă	-1
+sârguinţă	2
+rahat	-3
+groaznic	-3
+teribil	-3
+murdărie	-2
+mai murdară	-2
+cel mai murdar	-2
+murdar	-2
+dizabilități	-2
+handicap	-2
+dezactivarea	-1
+dezavantaj	-2
+dezavantajate	-2
+dezacord	-2
+dezagreabil	-2
+dezacord	-2
+dispărea	-1
+a dispărut	-1
+dispare	-1
+dezamăgi	-2
+dezamăgit	-2
+dezamăgitor	-2
+dezamăgire	-2
+dezamăgiri	-2
+dezamăgește	-2
+dezaprobare	-2
+dezaprobări	-2
+dezaproba	-2
+dezaprobat	-2
+dezaproba	-2
+dezaprobator	-2
+dezastru	-2
+dezastre	-2
+dezastruos	-3
+a nu crede	-2
+arunca	-1
+aruncat	-1
+aruncarea	-1
+aruncări	-1
+discernământ	2
+disconfort	-2
+neconsolat	-2
+deconsolare	-2
+nemultumit	-2
+discordie	-2
+reduse	-1
+descurajat	-2
+discreditat	-2
+deosebi	-2
+discriminat	-2
+discriminează	-2
+discriminare	-2
+discriminatorie	-2
+dispreț	-2
+boala	-1
+boli	-1
+ruşine	-2
+dezonorat	-2
+deghizare	-1
+deghizat	-1
+deghizări	-1
+deghizarea	-1
+dezgust	-3
+dezgustat	-3
+dezgustător	-3
+dezgustător	-3
+descurajat	-2
+necinstit	-2
+deziluzionat	-2
+dezclinat	-2
+dezarticulat	-2
+antipatie	-2
+ne-a plăcut	-2
+antipatii	-2
+sumbru	-2
+consternat	-2
+demis	-2
+tulburare	-2
+tulburări	-2
+dezorganizat	-2
+dezorientat	-2
+discredita	-2
+disprețuit	-2
+disprețuiește	-2
+disprețuitor	-2
+nemulțumit	-2
+nemulțumire	-2
+disproporţionat	-2
+disputa	-2
+disputat	-2
+conflicte	-2
+disputând	-2
+descalificat	-2
+neliniște	-2
+nesocotire	-2
+nesocotite	-2
+nesocotind	-2
+desconsideră	-2
+lipsă de respect	-2
+nerespectat	-2
+perturba	-2
+perturbat	-2
+perturbatoare	-2
+perturbare	-2
+perturbări	-2
+perturbatoare	-2
+perturbă	-2
+nemulţumit	-2
+dezagreabil	-2
+distins	2
+denatura	-2
+distorsionat	-2
+distorsionând	-2
+distorsionează	-2
+distrage	-2
+distras	-2
+distragerea atenției	-2
+distrage atenția	-2
+suferință	-2
+tulburat	-2
+necazuri	-2
+dureros	-2
+neîncredere	-3
+neîncrezător	-3
+perturba	-2
+deranjat	-2
+deranjant	-2
+deranjează	-2
+dithering	-2
+deturnând	-1
+ameţit	-1
+eschizându-se	-2
+supărător	-2
+nu funcționează	-3
+dureros	-2
+Donează	2
+donat	2
+donează	2
+donând	2
+donare	2
+nu place	-2
+soarta	-2
+condamnat	-2
+îndoială	-1
+îndoit	-1
+îndoielnic	-1
+îndoindu-se	-1
+îndoieli	-1
+duş	-3
+nesimțit	-3
+dură	-2
+doborât	-2
+mai josnic	-2
+descurajat	-2
+dezavantaj	-2
+trage	-1
+târât	-1
+trage	-1
+drenat	-2
+a II Fii frica	-2
+temut	-2
+îngrozitor	-3
+de frică	-2
+vis	1
+vise	1
+triste	-2
+căzut	-2
+cădere brusca	-1
+scăzut	-1
+îneca	-2
+înecat	-2
+se îneacă	-2
+corvoadă	-2
+beat	-2
+dubios	-2
+dud	-2
+plictisitor	-2
+prost	-3
+prost	-3
+haldă	-1
+aruncat	-2
+gropile	-1
+dupe	-2
+păcălit	-2
+prostire	-2
+durabil	2
+moarte	-3
+disfuncție	-2
+dornic	2
+zelos	2
+uşura	2
+uşor	1
+extatic	4
+straniu	-2
+fricos	-2
+efectiv	2
+în mod eficient	2
+eficacitate	2
+fără efort	2
+entuziasmat	3
+euforie	3
+elegant	2
+elegant	2
+a face de rusine	-2
+jenat	-2
+jenează	-2
+jenant	-2
+jenă	-2
+delapidare	-3
+amarat	-2
+îmbrățișează	1
+de urgență	-2
+empatic	2
+împuternici	2
+imputernicire	2
+goliciunea	-1
+gol	-1
+fermecat	2
+a incuraja	2
+încurajat	2
+încurajare	2
+încurajează	2
+încurajatoare	2
+aproba	2
+aprobat	2
+aprobare	2
+aprobă	2
+inamici	-2
+dusman	-2
+energic	2
+se angajează	1
+se angajează	1
+absorbit	1
+captivant	3
+bucură-te	2
+plăcută	2
+savurat	2
+bucurându-se	2
+se bucură	2
+luminează	2
+luminat	2
+iluminatoare	2
+luminează	2
+plictiseală	-2
+înfuria	-2
+înfuriat	-2
+se înfurie	-2
+înfuriat	-2
+încântare	3
+înrobi	-2
+înrobit	-2
+înrobește	-2
+asigura	1
+asigurând	1
+întreprinzător	1
+distractiv	2
+captivant	3
+entuziast	3
+intitulat	1
+încredinţat	2
+invidii	-1
+invidios	-2
+mediu prietenos	2
+invidie	-1
+invidios	-1
+eronat	-2
+eroare	-2
+erori	-2
+evadare	-1
+scapă	-1
+evadând	-1
+stima	2
+stimat	2
+etic	2
+euforie	3
+euforic	4
+evacuez	-1
+evacuat	-1
+evacuează	-1
+evacuare	-1
+evacuare	-1
+vesnic verde	2
+veşnic verzi	2
+veşnic verde	-3
+evacuare	-1
+rău	-3
+exacerba	-2
+exacerbată	-2
+exacerbează	-2
+exacerbând	-2
+exagera	-2
+exagerat	-2
+exagerează	-2
+exagerând	-2
+exasparat	-2
+exasperat	-2
+exaspera	-2
+exasperant	-2
+excelenţă	3
+excelent	3
+excita	3
+excitat	3
+entuziasm	3
+captivant	3
+exclude	-1
+exclus	-2
+excludere	-1
+exclusiv	2
+chinuitor	-1
+scuză	-1
+scuti	-1
+epuizat	-2
+entuziasmat	3
+entuziasmează	3
+înveselitor	3
+absolvi	2
+exonerat	2
+exonerează	2
+exonerând	2
+extinde	1
+se extinde	1
+expulza	-2
+expulzat	-2
+expulzarea	-2
+expulzează	-2
+expert	2
+exploata	-2
+exploatat	-2
+exploatând	-2
+exploatează	-2
+explorare	1
+explorări	1
+expune	-1
+expus	-1
+expune	-1
+expunând	-1
+rafinat	3
+extinde	1
+se extinde	1
+extremist	-2
+extremiști	-2
+exuberant	4
+exultant	3
+exultant	3
+fabulos	4
+fabulos	4
+moft	-2
+fag	-3
+fagot	-3
+fagots	-3
+eșuează	-2
+a eșuat	-2
+eșuând	-2
+eșuează	-2
+eșec	-2
+eșecuri	-2
+slăbit	-2
+corect	2
+corectitudine	2
+credinţă	1
+credincios	3
+fals	-3
+falsificator	-3
+falsuri	-3
+falsificarea	-3
+căzut	-2
+cădere	-1
+fals	-1
+în mod fals	-2
+falsificat	-3
+falsifica	-3
+faimă	1
+foamete	-2
+celebru	2
+ventilator	3
+fantastic	4
+farsă	-1
+fascina	3
+fascinat	3
+fascinează	3
+fascinant	3
+farmec	3
+fascist	-2
+fasciștilor	-2
+fatal	-3
+decese	-3
+fatalitate	-3
+oboseală	-2
+obosit	-2
+oboseli	-2
+obositoare	-2
+favoare	2
+favorabil	2
+favorabil	2
+favorizat	2
+favorită	2
+favorit	2
+favorite	2
+favoruri	2
+favoare	2
+favorabil	2
+favorabil	2
+favorizat	2
+favorită	2
+favorit	2
+favorite	2
+favoruri	2
+frică	-2
+fricos	-2
+cu frică	-2
+temându-se	-2
+neînfricat	2
+curaj	2
+înfricoșător	-2
+saturat	-3
+slabă	-2
+sentiment	1
+crime	-3
+crimă	-3
+fertil	2
+fierbinte	2
+fierbinte	2
+festiv	2
+febră	-2
+fiasco	-3
+agitat	-2
+luptă	-1
+luptă	-2
+amenda	2
+amenzi	-2
+cel mai bun	3
+foc	-2
+dat afara	-2
+tragere	-2
+potrivi	1
+fitness	1
+murdărie	-2
+murdar	-2
+navă amiral	2
+defect	-2
+defectuoasă	-3
+perfect	2
+impecabil	2
+defecte	-2
+fuge	-1
+chix	-2
+flops	-2
+gripa	-2
+ameţit	-2
+concentrat	2
+pasionat	2
+dragoste	2
+prost	-2
+prostesc	-2
+prostii	-2
+interzis	-1
+interzis	-2
+interzicând	-2
+forţat	-1
+executare silita	-2
+executări silite	-2
+fruntea	1
+a uita	-1
+uituc	-2
+de uitat	-1
+iartă	1
+iertător	1
+uitat	-1
+uitat	-1
+avere	2
+norocos	2
+din fericire	2
+fault	-3
+frenetic	-1
+fraudă	-4
+fraude	-4
+fraudator	-4
+fraudatori	-4
+înşelare	-4
+necinstit	-4
+ciudățenie	-2
+gratuit	1
+libertate	2
+libertăţi	2
+frenezie	-3
+proaspăt	1
+prieten	1
+prietenie	2
+prietenos	2
+prietenie	2
+frica	-2
+speriat	-2
+înfricoşător	-3
+frikin	-2
+zburdalnic	2
+încruntat	-1
+zadarnic	-2
+frustra	-2
+frustrat	-2
+frustrează	-2
+frustrant	-2
+frustrare	-2
+ftw	3
+La dracu	-4
+dracului	-4
+Nenorocitule	-4
+nenorocilor	-4
+la naiba	-4
+nenorocit	-4
+la naiba	-4
+dracului	-4
+al naibii de uimitor	4
+al naibii de frumos	4
+drăguț al naibii	4
+al naibii de fantastic	4
+al naibii de bine	4
+al naibii de grozav	4
+al naibii de fierbinte	2
+dracului de dragoste	4
+iubirile dracului	4
+al naibii de perfect	4
+dracului	-4
+fud	-3
+fuked	-4
+fuking	-4
+îndeplini	2
+împlinit	2
+împlinire	2
+indeplineste	2
+fumegând	-2
+distracţie	4
+înmormântare	-1
+înmormântări	-1
+funky	2
+mai amuzant	4
+amuzant	4
+furios	-3
+zadarnic	-2
+căluș	-2
+călușat	-2
+câştig	2
+câştigat	2
+câştigând	2
+castiguri	2
+galant	3
+galant	3
+galanterie	3
+schimbarea jocului	3
+gunoi	-1
+bijuterie	3
+generos	2
+generos	2
+genial	3
+îngrozitor	-2
+fantomă	-1
+ameţit	-2
+cadou	2
+bucuros	3
+plin de farmec	3
+plin de farmec	3
+bucurie	3
+vesel	3
+jale	-1
+sumbru	-2
+glorios	2
+glorie	2
+sumbru	-2
+dumnezeu	1
+la naiba	-3
+chilipir	4
+aur	2
+bun	3
+arată bine	3
+Buna dimineata	1
+bunătate	3
+bunăvoinţă	3
+prostie	-2
+nătărău	-2
+graţie	1
+graţios	2
+milostiv	3
+mare	3
+acorda	1
+acordat	1
+acordarea	1
+granturi	1
+recunoscător	3
+mulțumire	2
+mormânt	-2
+gri	-1
+îngrozitor	-2
+super	3
+Grozav	3
+mai mare	3
+cel mai mare	3
+lăcomie	-3
+lacom	-2
+spălătură verde	-3
+spălătorie verde	-3
+greenwash	-3
+spală verde	-3
+spalatorii verzi	-3
+greenwashing	-3
+salut	1
+salutat	1
+Salut	1
+Salutari	2
+salută	1
+gri	-1
+jale	-2
+întristat	-2
+rău	-2
+prinderea	2
+geme	-2
+gemu	-2
+gemuind	-2
+gemete	-2
+brut	-2
+creştere	1
+creştere	2
+creșteri	2
+macabru	-3
+garanție	1
+vinovăţie	-3
+vinovat	-3
+credulitate	-2
+credul	-2
+pistol	-1
+Ha	2
+tocat	-1
+haha	3
+hahaha	3
+hahahah	3
+grindină	2
+salutat	2
+aleluia	3
+alese cu mâna	1
+frumos	3
+nefericit	-2
+nefericire	-2
+cel mai fericit	3
+fericire	3
+fericit	3
+hărțui	-3
+hărțuit	-3
+hărțuiește	-3
+hărțuind	-3
+hărțuire	-3
+greu	-1
+mai rezistent	2
+dificultăți	-2
+rezistent	2
+dăuna	-2
+vătămată	-2
+dăunătoare	-2
+a răni	-2
+armonie	2
+armonios	2
+armonios	2
+dăunează	-2
+chinuit	-2
+aspru	-2
+mai aspru	-2
+cel mai dur	-2
+aspru	-2
+ură	-3
+urât	-3
+urător	-3
+uratorii	-3
+urăște	-3
+urând	-3
+ură	-3
+bântuie	-1
+bântuit	-2
+bântuitor	1
+bântuie	-1
+ravagii	-2
+riscant	-3
+durere de cap	-2
+sănătos	2
+sfâșietor	-3
+inimă frântă	-3
+din suflet	3
+fără inimă	-2
+înduioșător	3
+cer	2
+ceresc	4
+cu inima grea	-2
+hehe	2
+iad	-4
+infernal	-2
+Ajutor	2
+util	2
+ajutand	2
+neajutorat	-2
+ajută	2
+erou	2
+eroii	2
+eroic	3
+ezitant	-2
+ezita	-2
+ascuns	-1
+ascunde	-1
+hidos	-3
+se ascunde	-1
+ascunzându-se	-1
+a scoate in evidenta	2
+hilar	2
+împiedica	-2
+împiedicare	-2
+farsă	-2
+gol	-1
+fără adăpost	-2
+dor de casă	-2
+omucidere	-2
+omucideri	-2
+sincer	2
+onora	2
+onorat	2
+onorând	2
+onora	2
+onorat	2
+onorând	2
+huligan	-2
+huliganism	-2
+huligani	-2
+speranţă	2
+plin de speranță	2
+in speranta	2
+fara speranta	-2
+deznădejde	-2
+sperante	2
+sperând	2
+îngrozitor	-3
+oribil	-3
+oribil	-3
+îngrozitor	-3
+îngrozit	-3
+spitalizat	-2
+ostil	-2
+negustor ambulant	-2
+îmbrăţişare	2
+imens	1
+îmbrățișări	2
+uman	2
+umil	1
+farfurie	-2
+umeris	3
+umilit	-3
+umilire	-3
+umor	2
+plin de umor	2
+umor	2
+umoristic	2
+foame	-2
+Ura	5
+rănit	-2
+doare	-2
+doare	-2
+ipocrit	-2
+isterie	-3
+isteric	-3
+isterici	-3
+icky	-3
+idiotie	-3
+idiot	-3
+idiot	-3
+ignoranţă	-2
+ignorant	-2
+ignora	-1
+ignorat	-2
+ignoră	-1
+bolnav	-2
+nefericit	-2
+ilegal	-3
+ilegal	-3
+nelegitim	-3
+analfabetism	-2
+maladie	-2
+boli	-2
+ilogic	-2
+imaginativ	2
+imbecil	-3
+imobilizat	-1
+nemuritor	2
+imun	1
+afecta	-2
+afectarea	-2
+afectarea	-2
+deficienta	-2
+afectează	-2
+nerăbdător	-2
+punerea sub acuzare	-3
+condamna	-3
+împiedica	-2
+impiedicat	-2
+impiedica	-2
+împiedicând	-2
+impiedicator	-2
+imperfect	-2
+importanţă	2
+important	2
+a impune	-1
+impuse	-1
+impune	-1
+impozant	-1
+impostor	-2
+impotent	-2
+impresiona	3
+impresionat	3
+impresionează	3
+impresionant	3
+închis	-2
+pedeapsa cu închisoarea	-2
+improprii	-2
+impropriu	-2
+îmbunătăţi	2
+îmbunătățită	2
+îmbunătăţire	2
+se îmbunătățește	2
+imbunatatirea	2
+incapacitatea	-2
+inacțiune	-2
+inadecvat	-2
+neatenție	-2
+nepotrivit	-2
+incapabil	-2
+incapacitati	-2
+incapacită	-2
+incapacitante	-2
+tămâia	-2
+infuriat	-2
+tămâie	-2
+tămâiere	-2
+incoerent	-2
+incompetenţă	-2
+incompetent	-2
+incomplet	-1
+de neînţeles	-2
+nechibzuit	-2
+incomoda	-2
+incomod	-2
+crește	1
+a crescut	1
+nehotărâtă	-2
+indestructibil	2
+inculpat	-2
+indiferenţă	-2
+indiferent	-2
+indignat	-2
+indignare	-2
+îndoctrina	-2
+îndoctrinat	-2
+îndoctrinează	-2
+îndoctrinare	-2
+de necomert	-2
+inexorabil	-3
+de neiertat	-3
+ineficient	-2
+ineficient	-2
+ineficient	-2
+ineficienta	-2
+ineficace	-2
+ineficient	-2
+ineptă	-2
+ineptitudine	-2
+infantil	-2
+infantilizat	-2
+îndrăgostit nebuneşte	2
+infatuarea	2
+infecta	-2
+infectat	-2
+infectarea	-2
+infecţie	-2
+infectii	-2
+infectioase	-2
+infectează	-2
+inferior	-2
+infesta	-2
+infestat	-2
+infestând	-2
+infestează	-2
+inflamat	-2
+cauza	-2
+provocat	-2
+provocând	-2
+provoacă	-2
+influent	2
+infract	-2
+infracționat	-2
+infrangere	-2
+incalcă	-2
+încălcare	-2
+înfuria	-2
+înfuriat	-2
+înfurie	-2
+enervant	-2
+inhiba	-1
+inuman	-2
+rănit	-2
+leziuni	-2
+rănire	-2
+nedreptate	-2
+inovează	1
+inovează	1
+inovaţie	1
+inovatoare	2
+inoperant	-2
+inchizitie	-2
+indiscret	2
+nebun	-2
+nebunie	-2
+nesigur	-2
+insensibil	-2
+insensibilitate	-2
+nesemnificativ	-2
+insipid	-2
+insolvabil	-2
+insomnie	-2
+inspirație	2
+inspirational	2
+a inspira	2
+inspirat	2
+inspiră	2
+inspirator	3
+insuficienţă	-2
+insuficient	-2
+insuficient	-2
+insultă	-2
+insultat	-2
+jignitor	-2
+insulte	-2
+intact	2
+integritate	2
+inteligent	2
+intens	1
+interes	1
+interesat	2
+interesant	2
+interese	1
+interogat	-2
+întrerupe	-2
+întrerupt	-2
+întrerupând	-2
+întrerupere	-2
+întrerupe	-2
+intimitate	2
+intimida	-2
+intimidat	-2
+intimidează	-2
+intimidant	-2
+intimidare	-2
+intransigenţă	-2
+intransigenţă	-2
+complicat	2
+intrigi	1
+invazie	-1
+de neinvins	2
+a invita	1
+îmbietor	1
+invulnerabil	2
+iritat	-3
+ironic	-1
+ironie	-1
+iraţional	-1
+ireparabil	-2
+ireproductibil	-2
+irezistibil	2
+irezistibil	2
+nehotărâtă	-2
+iresponsabil	-2
+iresponsabil	-2
+ireversibil	-1
+ireversibil	-1
+irita	-3
+iritat	-3
+irita	-3
+enervant	-3
+izolat	-1
+râios	-2
+măgar	-4
+ciucuri	-4
+inchis	-2
+stilat	2
+gelos	-2
+gelozie	-2
+primejdie	-2
+smucitură	-3
+Iisus	1
+bijuterie	1
+bijuterii	1
+umoristic	2
+a te alatura	1
+glumă	2
+glume	2
+vesel	2
+jovial	2
+bucurie	3
+vesel	3
+cu bucurie	3
+lipsit de bucurie	-2
+veselă	3
+jubilatoare	3
+saritoare	-1
+justiţie	2
+în mod justificat	2
+justificate	2
+pasionat	1
+recul	-3
+retrageri	-3
+răpi	-2
+răpit	-2
+răpirea	-2
+răpiri	-2
+răpiri	-2
+ucide	-3
+ucis	-3
+ucidere	-3
+ucide	-3
+drăguț	2
+cam	0
+mai amabil	2
+bunătate	2
+pup	2
+Apreciere	3
+lipsa	-2
+apatic	-2
+lag	-1
+rămase în urmă	-2
+întârziat	-2
+întârzieri	-2
+şchiop	-2
+Reper	2
+interval	-1
+decăzut	-1
+a rade	1
+a râs	1
+razand	1
+râde	1
+râzând	1
+lansat	1
+lege	3
+proces	-2
+procese	-2
+leneş	-1
+conducere	1
+conducere	2
+scurgere	-1
+scurs	-1
+părăsi	-1
+legale	1
+legal	1
+îngăduitor	1
+mortal	-2
+letalitatea	-2
+letargic	-2
+letargie	-2
+mincinos	-3
+mincinoși	-3
+calomnioasă	-2
+mintit	-2
+lipsit de viață	-1
+salvator de vieti	4
+uşurată	1
+simpatic	2
+ca	2
+simpatic	2
+placut	2
+iubitorii	2
+îi place	2
+plăcere	2
+prescripţie	-1
+limitat	-1
+limite	-1
+litigii	-1
+litigios	-2
+plin de viață	2
+livid	-2
+lmao	4
+lmfao	4
+detesta	-3
+urât	-3
+detestă	-3
+detesta	-3
+dezgustătoare	-3
+făcut lobby	-2
+lobby	-2
+lobby	-2
+lobbyist	-2
+lobbyisti	-2
+laugh out Loud	3
+lolol	4
+lololol	4
+lolololol	4
+singuratic	-2
+singur	-2
+dor	-1
+lool	3
+război de ţesut	-1
+se profila	-1
+se profilează	-1
+războaie	-1
+laool	3
+lauuuul	3
+lejer	-3
+pierde	-3
+ratat	-3
+pierzând	-3
+pierderi	-3
+pierderi	-3
+pierdut	-3
+prost	-2
+amabil	3
+dragoste	3
+iubit	3
+dragilor	3
+minunat	3
+iubirile	3
+iubitor	2
+bunătate iubitoare	3
+cel mai jos	-1
+loial	3
+loialitate	3
+noroc	3
+din fericire	3
+norocos	3
+lucrativ	3
+ridicol	-3
+lugubru	-2
+nebun	-3
+nebunii	-3
+pândi	-1
+pândind	-1
+pândește	-1
+luxos	2
+macabru	-2
+nebun	-3
+înnebunitor	-3
+inventat	-1
+nebunesc	-3
+nebunie	-3
+magnific	3
+neadaptare	-2
+proastă dezvoltare	-2
+maltratare	-2
+obligatoriu	-1
+manipulat	-1
+manipuland	-1
+manipulare	-1
+omor prin imprudenţă	-3
+minune	3
+minunat	3
+minuni	3
+capodoperă	4
+capodopere	4
+materie	1
+contează	1
+matur	2
+plin de înțeles	2
+fără înţeles	-2
+medalie	3
+mediocritate	-3
+meditativ	1
+melancolie	-2
+memorabil	1
+memoriam	-2
+ameninţare	-2
+amenintat	-2
+amenintari	-2
+milă	2
+vesel	3
+fascinant	3
+mizerie	-2
+încurcat	-2
+încurc	-2
+metodic	2
+metodic	2
+fără minte	-2
+miracol	4
+veselie	3
+voios	3
+cu veselie	3
+se comporta prost	-2
+s-a purtat prost	-2
+se poartă prost	-2
+purtându-se prost	-2
+branding greșit	-3
+face o proastă distribuţie	-2
+bucluc	-1
+nenorociri	-1
+greșit clasificat	-2
+clasifică greșit	-2
+clasifica greșit	-2
+abatere	-2
+condus greșit	-2
+abatere	-2
+abateri	-2
+mizerabil	-3
+mizerabil	-3
+mizerie	-2
+rateu	-2
+ghinion	-2
+nedumeritor	-2
+dezinformare	-2
+dezinformat	-2
+interpretat greșit	-2
+induce în eroare	-3
+indus în eroare	-3
+derutant	-3
+induce in eroare	-3
+gresit	-2
+deplasat	-2
+deplasarile	-2
+deplasat	-2
+preț greșit	-3
+citit greșit	-1
+raportare greșită	-2
+raportat greșit	-2
+raportarea greșită	-2
+rapoarte greșite	-2
+denaturare	-2
+denaturare	-2
+denaturari	-2
+denaturat	-2
+denaturarea	-2
+denaturează	-2
+domnisoara	-2
+ratat	-2
+dispărut	-2
+greşeală	-2
+gresit	-2
+greșeli	-2
+gresind	-2
+înțeleg greșit	-2
+neînţelegere	-2
+înţelege greşit	-2
+greșit înțeles	-2
+abuz	-2
+abuzat	-2
+abuzuri	-2
+folosirea greșită	-2
+geamăt	-2
+gemu	-2
+gemând	-2
+gemete	-2
+a-și bate joc	-2
+batjocorit	-2
+batjocoritor	-2
+batjocuri	-2
+moderniza	2
+modernizate	2
+se modernizează	2
+modernizarea	2
+bătaie de cap	-2
+monopoliza	-2
+monopolizat	-2
+monopolizează	-2
+monopolizant	-2
+monoton	-1
+capricios	-1
+mopa	-1
+moping	-1
+imbecil	-3
+nenorocitul	-5
+naibii	-5
+motiva	1
+motivat	2
+motivant	2
+motivare	1
+jeli	-2
+plâns	-2
+jale	-2
+doliu	-2
+deplânge	-2
+plin de noroi	-2
+oreion	-2
+crimă	-2
+criminal	-2
+uciderea	-3
+criminală	-3
+crime	-2
+tulbure	-2
+mit	-1
+n00b	-2
+naiv	-2
+narcisism	-2
+neplăcut	-3
+natural	1
+naiv	-2
+nevoiasi	-2
+negativ	-2
+negativitate	-2
+neglijare	-2
+neglijat	-2
+neglijând	-2
+neglijează	-2
+nervi	-1
+agitat	-2
+nervos	-2
+Grozav	3
+talentat	2
+a negrului	-5
+negru	-5
+Nu	-1
+nici o distractie	-3
+nobil	2
+cel mai nobil	2
+zgomotos	-1
+neaprobat	-2
+Prostii	-2
+începător	-2
+băgăcios	-2
+nu e bine	-2
+Nu funcționează	-3
+notabil	2
+vizibil	2
+notoriu	-2
+roman	2
+amorțit	-1
+hrănirea	2
+nuci	-3
+şterge	-2
+şterse	-2
+dezastruoasă	-3
+obscen	-2
+obscenitate	-2
+obsedat	2
+învechit	-2
+obstacol	-2
+obstacole 	-2
+încăpăţânat	-2
+obstrucționează	-2
+obstrucționat	-2
+obstrucționând	-2
+obstrucţie	-2
+obstrucționează	-2
+ciudat	-2
+delict	-2
+delicte	-2
+jignesc	-2
+ofensat	-2
+contravenient	-2
+jignind	-2
+jigneste	-2
+delict	-2
+delicte	-2
+ofensator	-2
+ofensator	-2
+deconectat	-1
+ok	2
+de rău augur	3
+o dată în viață	3
+hopa	-2
+oportunități	2
+oportunitate	2
+asuprit	-2
+opresiune	-2
+asupriri	-2
+apăsătoare	-2
+optimism	2
+optimist	2
+fara optiuni	-2
+ostraciza	-2
+ostracizat	-2
+ostracizează	-2
+ai	-2
+întrerupere	-2
+întreruperi	-2
+epidemie	-2
+focare	-2
+strigăt	-2
+depăşit	-2
+depășit numeric	-2
+ultraj	-3
+revoltat	-3
+scandalos	-3
+mobilizare	2
+remarcabil	5
+nespus de bucuros	4
+suprasarcina	-1
+tratat superficial	-1
+supraprotector	-2
+depășit	-2
+reacționează exagerat	-2
+exagerat	-2
+reacţionând exagerat	-2
+reacție excesivă	-2
+reacţionează exagerat	-2
+supravânzare	-2
+supravânzarea	-2
+supravând	-2
+supraveghere	-1
+simplificare excesivă	-2
+suprasimplificat	-2
+simplifică prea mult	-2
+simplifica excesiv	-2
+supravândut	-2
+exagerare	-2
+exagerări	-2
+supraponderal	-1
+suprasolicitat	-3
+oximoron	-1
+durere	-2
+îndurerat	-2
+dureros	-2
+panică	-3
+panicat	-3
+panica	-3
+paradis	3
+paradox	-1
+Pardon	2
+iertat	2
+iertare	2
+iertare	2
+parlament	-1
+pasiune	1
+pasionat	2
+pasiv	-1
+pasiv	-1
+jalnic	-2
+a plati	-1
+pace	2
+pașnic	2
+paşnic	2
+penaliza	-2
+penalizat	-2
+penalizează	-2
+penalizand	-2
+penalizare	-2
+meditativ	-1
+perfect	3
+perfecţionat	2
+perfecţiune	3
+perfect	3
+perfecti	2
+pune în pericol	-2
+sperjur	-3
+comise	-2
+autor	-2
+făptuitorii	-2
+nedumerit	-2
+persecuta	-2
+persecutat	-2
+persecută	-2
+persecutor	-2
+tulburat	-2
+pervers	-3
+plictisitor	-2
+pesimism	-2
+pesimist	-2
+împietrit	-2
+filantropie	2
+fobic	-2
+pitoresc	2
+îngrămădirea	-1
+jefuirea	-2
+pichet	-2
+picat	-2
+pipi	-4
+supărat	-4
+pisand	-3
+jalnic	-2
+compătimită	-1
+milă	-2
+ciuma	-3
+chinuit	-3
+ciume	-3
+chinuitoare	-3
+jucăuş	2
+placut	3
+Vă rog	1
+mulţumit	3
+plăcută	3
+plăcere	3
+ploding	-2
+plin de emoție	2
+fără sens	-2
+gata	-2
+otravă	-2
+otrăvit	-2
+otravuri	-2
+lustruit	2
+politicos	2
+politeţe	2
+poluant	-2
+polua	-2
+poluat	-2
+poluator	-2
+poluanți	-2
+poluează	-2
+poluare	-2
+sărac	-2
+mai săracă	-2
+cel mai sărac	-2
+slab	-2
+popular	3
+popularitate	3
+pozitiv	2
+pozitiv	2
+posesiv	-2
+post-traumatic	-2
+amâna	-1
+amânat	-1
+amână	-1
+amânând	-1
+sărăcie	-1
+puternic	2
+neputincios	-2
+laudă	3
+lăudat	3
+laude	3
+lăudând	3
+roagă-te	1
+rugându-se	1
+se roagă	1
+prblm	-2
+prblms	-2
+prădător	-2
+pregătit	1
+presiune	-1
+presat	-2
+pretinde	-1
+prefăcându-se	-1
+se preface	-1
+frumos	1
+împiedica	-1
+prevenit	-1
+prevenind	-1
+previne	-1
+înţepătură	-5
+închisoare	-2
+prizonier	-2
+prizonieri	-2
+privilegiat	2
+proactivă	2
+problemă	-2
+Probleme	-2
+profit	2
+profitabil	2
+profitor	-2
+profituri	2
+progres	2
+interzice	-1
+interzice	-1
+proeminent	2
+promisiune	1
+promis	1
+promisiuni	1
+promova	1
+promovat	1
+promovează	1
+promovarea	1
+prompt	1
+propagandă	-2
+urmărirea penală	-1
+urmărit penal	-2
+acuză	-1
+urmarire penala	-1
+perspectivă	1
+perspective	1
+prosperitate	3
+prosper	3
+proteja	1
+protejat	1
+protejează	1
+protest	-2
+protestatarii	-2
+protestând	-2
+proteste	-2
+mândru	2
+cu mândrie	2
+a provoca	-1
+provocat	-1
+provoacă	-1
+provocând	-1
+prudenţă	2
+pseudoştiinţă	-3
+psihopat	-2
+pedepsi	-2
+pedepsit	-2
+pedepsește	-2
+pedepsirea	-2
+punitiv	-2
+pur	1
+cel mai pur	1
+intenționat	2
+insistent	-1
+nedumerit	-2
+tremurând	-2
+calitati	2
+calitate	2
+discutabil	-2
+intrebat	-1
+chestionare	-1
+rasism	-3
+rasist	-3
+rasiști	-3
+furie	-2
+furios	-2
+ploios	-1
+declama	-3
+ranter	-3
+ranters	-3
+răzvrătiri	-3
+viol	-4
+violat	-4
+violator	-4
+extaz	2
+răpit	2
+răpiri	2
+răpitor	4
+eczemă	-2
+ratificat	2
+a ajunge	1
+atins	1
+ajunge	1
+ajungând	1
+linişti	1
+liniştit	1
+liniștește	1
+liniştitor	2
+rebel	-2
+rebeliune	-2
+rebeli	-2
+recesiune	-2
+nesăbuit	-2
+recunoaştere	2
+recomanda	2
+recomandat	2
+recomanda	2
+răscumpărat	2
+rafina	1
+rafinat	1
+rafinează	1
+revigorant	2
+refuza	-2
+refuzat	-2
+refuză	-2
+refuzând	-2
+regret	-2
+regretabil	-2
+regrete	-2
+regretat	-2
+regretând	-2
+domnitor	1
+respinge	-1
+respins	-1
+respingând	-1
+respingere	-2
+respinge	-1
+bucura	4
+bucurat	4
+se bucură	4
+bucurându-se	4
+relaxat	2
+neobosit	-1
+fiabilitate	2
+de încredere	2
+în mod fiabil	2
+dependent	2
+ușurare	1
+uşurat	2
+ameliorează	1
+alinare	2
+savurând	2
+remarcabil	2
+remuşcare	-2
+respingător	-2
+repercusiune	-2
+repercusiuni	-2
+mustrare	-2
+mustrat	-2
+mustrând	-2
+mustrări	-2
+respinge	-1
+respins	-2
+respingător	-2
+salvare	2
+salvat	2
+salvări	2
+supărător	-2
+demisiona	-1
+demisionat	-1
+demisionând	-1
+demisioneaza	-1
+hotărât	2
+rezoluţie	2
+rezolva	2
+rezolvat	2
+rezolvă	2
+rezolvarea	2
+respect	2
+apreciat	2
+respectă	2
+responsabilitate	1
+responsabil	2
+receptiv	2
+odihnitor	2
+neliniştit	-2
+restabili	1
+restaurat	1
+reface	1
+restabilind	1
+restrânge	-2
+restrânsă	-2
+restrictiv	-2
+restricţie	-2
+restrictiv	-1
+restricționează	-2
+reţinut	-1
+întârzia	-2
+retardat	-2
+retragere	-1
+răzbunare	-2
+răzbunător	-2
+venerat	2
+reînvie	2
+reînvie	2
+revoltător	-2
+recompensă	2
+răsplătit	2
+plină de satisfacții	2
+recompense	2
+bogat	2
+bogat	2
+ridicol	-3
+montaj	-1
+trucat	-1
+Direcția corectă	3
+dreptatea	2
+de drept	2
+pe drept	2
+riguros	3
+riguros	3
+revoltă	-2
+revolte	-2
+creştere	1
+se ridică	1
+risc	-2
+riscuri	-2
+riscant	-2
+nituire	3
+jefuiesc	-2
+jefuitor	-2
+îmbrăcat	-2
+îmbrăcăminte	-2
+jefuieste	-2
+robust	2
+rofl	4
+roflcopter	4
+roflmao	4
+romantism	2
+romantică	2
+romantic	2
+Trandafir	1
+rotfl	4
+rotflmfao	4
+rotflol	4
+putred	-3
+nepoliticos	-2
+ruina	-2
+ruinat	-2
+ruinarea	-2
+ruine	-2
+sabotaj	-2
+trist	-2
+întristat	-2
+întristat	-2
+din pacate	-2
+sigur	1
+în condiții de siguranță	1
+mai sigur	2
+Siguranță	1
+proeminent	1
+salut	2
+salutat	2
+salută	2
+salutând	2
+mântuirea	2
+sappy	-1
+sarcastic	-2
+multumit	2
+sălbatic	-2
+sălbaticii	-2
+salva	2
+salvat	2
+economii	1
+înșelătorie	-2
+escrocherii	-2
+scandal	-3
+scandalos	-3
+scandaluri	-3
+ţap ispăşitor	-2
+ţapi ispăşitori	-2
+a speria	-2
+speriat	-2
+cicatrice	-2
+cicatrici	-2
+infricosator	-2
+sceptic	-2
+certa	-2
+chiuretă	3
+dispreţ	-2
+disprețuitor	-2
+ţipăt	-2
+a tipat	-2
+țipând	-2
+țipete	-2
+înșurubat	-2
+încurcat	-3
+gunoi	-3
+ticălos	-4
+fără sudură	2
+perfect	2
+sigur	2
+asigurat	2
+asigură	2
+răzvrătire	-2
+sedițios	-2
+sedus	-1
+auto-abuz	-2
+încrezător în sine	2
+auto-contradictorie	-2
+auto-amăgit	-2
+egoist	-3
+egoism	-3
+propoziție	-2
+condamnat	-2
+propoziții	-2
+condamnarea	-2
+senin	2
+aşezare	1
+aşezări	1
+severă	-2
+strict	-2
+sexistă	-2
+sexistic	-2
+sexy	3
+tremurat	-2
+rușine	-2
+rusinat	-2
+ruşinos	-2
+acțiune	1
+impartit	1
+acțiuni	1
+spulberat	-2
+rahat	-4
+ticălos	-4
+rahat	-3
+şoc	-2
+şocat	-2
+şocant	-2
+șocuri	-2
+şocat	-2
+trage	-1
+miop	-2
+miopie	-2
+deficit	-2
+lipsuri	-2
+scorpie	-4
+timid	-1
+bolnav	-2
+boală	-2
+efect secundar	-2
+efecte secundare	-2
+suspin	-2
+semnificaţie	1
+semnificativ	1
+tăcere	-1
+prostesc	-1
+simplitate	1
+păcat	-2
+sincer	2
+Cu sinceritate	2
+cel mai sincer	2
+sinceritate	2
+păcătos	-3
+unic	-2
+sinistru	-2
+păcatele	-2
+sceptic	-2
+sceptic	-2
+scepticism	-2
+sceptici	-2
+trânti	-2
+bară oblică	-2
+tăiat	-2
+tăieturi	-2
+tăiere	-2
+sclav	-3
+sclavie	-3
+sclavi	-3
+insomnie	-2
+slick	2
+slicker	2
+cel mai slick	2
+alunecare	-1
+neglijent	-2
+lent	-2
+prăbușit	-1
+curvă	-5
+inteligent	1
+mai inteligent	2
+cel mai inteligent	2
+frotiu	-2
+zâmbet	2
+a zâmbit	2
+zâmbete	2
+zâmbitor	2
+smog	-2
+contrabandă	-2
+de contrabandă	-2
+contrabandă	-2
+contrabanda	-2
+ascuns	-1
+strănut	-2
+a strănutat	-2
+strănută	-2
+strănut	-2
+cârn	-2
+snobit	-2
+snubbing	-2
+snubs	-2
+răbdător	1
+solemn	-1
+solid	2
+solidaritate	2
+solidificat	2
+se solidifică	2
+solidifica	2
+solidificându-se	2
+soluţie	1
+solutii	1
+rezolva	1
+rezolvat	1
+rezolvă	1
+rezolvarea	1
+sumbru	-2
+un fel	0
+Fecior de curva	-5
+calma	3
+linistit	3
+liniştitor	3
+sofisticat	2
+inflamat	-1
+întristare	-2
+întristată	-2
+scuze	-1
+spatios	1
+spam	-2
+spammer	-3
+spammeri	-3
+spam	-2
+scânteie	1
+scânteie	3
+scântei	3
+sclipitoare	3
+vârf de lance	2
+speculativ	-2
+spirit	1
+plin de spirit	2
+lipsit de spirit	-2
+duşmănos	-2
+splendid	3
+stricat	-2
+stricat	-2
+imaculat	2
+vioi	2
+risipi	-2
+risipită	-2
+risipă	-2
+risipi	-2
+stins	-1
+înjunghia	-2
+înjunghiat	-2
+grajd	2
+înjunghiuri	-2
+stand	-2
+stagnat	-2
+stagnarea	-2
+rezistență	2
+amploare	-2
+puțea	-2
+tresărit	-2
+uimitor	3
+muri de foame	-2
+înfometat	-2
+moare de foame	-2
+înfometând	-2
+statornic	2
+fura	-2
+furtul	-2
+fură	-2
+stereotip	-2
+stereotipat	-2
+înăbușită	-1
+stimula	1
+stimulat	1
+stimulează	1
+stimulatoare	2
+zgârcit	-2
+putoare	-2
+împuțit	-2
+puturos	-2
+împuţit	-2
+pute	-2
+imputit	-2
+furat	-2
+furat	-2
+Stop	-1
+oprit	-1
+oprire	-1
+se opreste	-1
+stout	2
+Drept	1
+ciudat	-1
+ciudat	-1
+sugrumat	-2
+putere	2
+a intari	2
+întărit	2
+întărirea	2
+întărește	2
+punctele forte	2
+stres	-1
+accentuat	-2
+factor de stres	-2
+factori de stres	-2
+lovit	-2
+grevă	-1
+grevişti	-2
+greve	-1
+puternic	2
+mai puternica	2
+cel mai puternic	2
+lovit	-1
+lupta	-2
+zbuciumat	-2
+lupte	-2
+chinuindu-se	-2
+încăpăţânat	-2
+blocat	-2
+uluit	-2
+uluitoare	4
+prost	-2
+prostie	-3
+stupid	-2
+suav	2
+citaţie	-2
+substanțial	1
+substanţial	1
+subversiv	-2
+a reusi	3
+reușit	3
+reușind	3
+reușește	3
+succes	2
+de succes	3
+cu succes	3
+a suge	-3
+nasol	-3
+a da in judecata	-2
+dat în judecată	-2
+dând în judecată	-2
+dă în judecată	-2
+suferi	-2
+suferit	-2
+suferind	-2
+suferinzi	-2
+suferinţă	-2
+sufera	-2
+sinucigaș	-2
+sinucidere	-2
+sinucideri	-2
+dând în judecată	-2
+potrivit	2
+potrivită	2
+îmbufnat	-2
+îmbufnat	-2
+trist	-2
+raza de soare	2
+super	3
+superb	5
+superior	2
+a sustine	2
+sprijinit	2
+suporter	1
+suporteri	1
+de sprijin	1
+de susținere	2
+suporturi	2
+suprem	4
+supravietuit	2
+supravieţuitor	2
+supravieţuitor	2
+suspect	-1
+bănuit	-1
+bănuind	-1
+suspecți	-1
+suspenda	-1
+suspendat	-1
+suspicios	-2
+durabilitate	1
+durabil	2
+în mod durabil	2
+jura	-2
+înjurând	-2
+înjură	-2
+dulce	2
+mai dulce	3
+cel mai dulce	3
+rapid	2
+repede	2
+escrocherie	-3
+escrocherii	-3
+escrocherie	-3
+simpatic	2
+simpatie	2
+altera	-2
+viciat	-2
+talent	2
+tard	-2
+păta	-2
+pătată	-2
+pătează	-2
+lacrimi	-2
+delicat, fraged	2
+sensibilitate	2
+încordat	-2
+tensiune	-1
+teribil	-3
+teribil	-3
+teribil	4
+îngrozitor	4
+îngrozit	-3
+teroare	-3
+terorist	-2
+terorişti	-2
+teroriza	-3
+terorizat	-3
+terorizează	-3
+multumesc	2
+recunoscător	2
+Mulțumiri	2
+spinos	-2
+grijuliu	2
+necugetat	-2
+amenințare	-2
+a ameninta	-2
+amenințat	-2
+amenintatoare	-2
+ameninta	-2
+amenințări	-2
+încântat	5
+contracara	-2
+zădărnicit	-2
+zădărnicitoare	-2
+zădărnicește	-2
+timid	-2
+timora	-2
+obosit	-2
+ţâţe	-2
+toleranţă	2
+tolerant	2
+ştirb	-2
+top	2
+vârfuri	2
+rupt	-2
+tortura	-4
+torturat	-4
+torturi	-4
+chinuind	-4
+totalitar	-2
+totalitarism	-2
+tout	-2
+pretins	-2
+toting	-2
+touts	-2
+toxic	-3
+tragedii	-2
+tragedie	-2
+tragic	-2
+liniştit	2
+transgrese	-2
+încălcat	-2
+transgresează	-2
+transgresând	-2
+capcană	-1
+prins în capcană	-2
+capcane	-1
+trauma	-3
+traumatic	-3
+parodie	-2
+trădare	-3
+trădător	-3
+comoară	2
+comori	2
+tremurând	-2
+tremor	-2
+tremurături	-2
+tremurător	-2
+necazul	-2
+Omagiu	2
+păcălit	-2
+smecherie	-2
+triumf	4
+triumfător	4
+revenire	-2
+necazuri	-2
+tulburat	-2
+necazuri	-2
+tulburător	-2
+Adevărat	2
+încredere	1
+de încredere	2
+trusturi	1
+tumora	-2
+pizdă	-5
+tiran	-3
+tiranic	-3
+tiranic	-3
+în mod tiranic	-3
+tiranii	-3
+omniprezentă	2
+ugh	-2
+urâţenie	-3
+urât	-3
+incapabil	-2
+inacceptabil	-2
+de neliniștit	-2
+neapreciat	-2
+neaprobat	-2
+neatractiv	-2
+indisponibil	-1
+inutil	-2
+inconstient	-2
+insuportabil	-2
+necrezut	-1
+necredincios	-1
+imparțial	2
+incert	-1
+neclar	-1
+incomod	-2
+nepreocupat	-2
+neconfirmat	-1
+neconvins	-1
+necreditat	-1
+indecis	-1
+ne gătit	-2
+subestima	-1
+subestimat	-1
+subestimează	-1
+subestimând	-1
+submina	-2
+subminat	-2
+subminează	-2
+subminarea	-2
+subperformanță	-2
+subperformat	-2
+subperformant	-2
+are performanțe slabe	-2
+nemeritatoare	-2
+indezirabil	-2
+neliniştit	-2
+şomerii	-1
+şomaj	-2
+inegal	-1
+neegalat	2
+ne-etic	-2
+fără evenimente	-2
+nedrept	-2
+nefavorabil	-2
+inapt	-2
+neadaptat	-2
+neconcentrat	-2
+de neiertat	-3
+neiertător	-2
+neîmplinită	-2
+neamuzant	-2
+negeneroasa	-2
+nerecunoscător	-3
+nefericit	-2
+nefericire	-2
+nesănătos	-2
+neigienic	-2
+unificat	1
+lipsit de imaginație	-2
+neimpresionat	-2
+neinspirat	-2
+neinteligentă	-2
+neintenționat	-2
+lipsit de implicare	-2
+Unit	1
+nedrept	-2
+improbabil	-1
+de neiubit	-2
+neiubit	-2
+de neegalat	1
+nemotivat	-2
+neoriginal	-2
+neparlamentar	-2
+neplăcut	-2
+neplăcut	-2
+neprofesionist	-2
+descurca	1
+neîncetat	-2
+necercetat	-2
+nesigure	-2
+nemultumit	-2
+neştiinţific	-2
+negarantat	-2
+altruist	2
+neliniştit	-1
+nevândut	-1
+nesofisticat	-2
+nesănătos	-2
+instabil	-2
+de neoprit	2
+fără succes	-2
+fără succes	-2
+nesuportat	-2
+nesigur	-1
+nepătată	2
+neadevărat	-2
+nedorit	-2
+nevrednic	-2
+înălțător	2
+vacarm	-3
+deranjat	-2
+supărări	-2
+supărătoare	-2
+crispat	-2
+urgent	-1
+util	2
+utilitate	2
+inutil	-2
+inutilitate	-2
+vag	-2
+valida	1
+validat	1
+validează	1
+validarea	1
+fad	-2
+verdict	-1
+verdicte	-1
+învestit	1
+necaz	-2
+supărător	-2
+vibrant	3
+vicios	-2
+victimă	-3
+victimizare	-3
+victimiza	-3
+victimizat	-3
+victimizează	-3
+victimizant	-3
+victime	-3
+Victor	3
+învingători	3
+victorie	3
+victorii	3
+vigilent	3
+vigoare	3
+ticălos	-3
+justifica	2
+justificat	2
+justifică	2
+justificând	2
+incalca	-2
+încălcat	-2
+încalcă	-2
+încălcând	-2
+încălcare	-2
+încălcări	-2
+violenţă	-3
+legate de violență	-3
+violent	-3
+violent	-3
+virtuos	2
+virulent	-2
+viziune	1
+vizionar	3
+vizionarea	1
+viziuni	1
+vitalitate	3
+vitamina	1
+vitriolic	-3
+vioi	3
+viu	2
+zgomotos	-1
+vărsături	-3
+vomita	-3
+vărsături	-3
+vărsături	-3
+vulnerabilitate	-2
+vulnerabil	-2
+ieși	-2
+ieşiri	-2
+wanker	-3
+vrei	1
+război	-2
+război	-2
+cald	1
+cu inima caldă	2
+căldură	2
+căldură	2
+a avertiza	-2
+avertizat	-2
+avertizare	-3
+Avertizări	-3
+avertizează	-2
+deşeuri	-1
+pierdut	-2
+risipirea	-2
+ezitare	-1
+slab	-2
+slăbit	-2
+slăbiciune	-2
+puncte slabe	-2
+bogatie	3
+mai bogat	2
+bogat	2
+obosit	-2
+plânge	-2
+plângând	-2
+ciudat	-2
+Bine ati venit	2
+binevenit	2
+salută	2
+bunăstare	2
+bine campionată	3
+bine dezvoltate	2
+bine stabilit	2
+bine concentrat	2
+bine îngrijit	2
+bine proportionat	2
+capricios	1
+lapte de var	-3
+curvă	-4
+rău	-2
+văduvă	-1
+vointa	2
+victorie	4
+câştigător	4
+învingătoare	4
+învinge	4
+winwin	3
+înţelepciune	1
+dori	1
+dorințe	1
+dorind	1
+retragere	-3
+minte	2
+nefericită	-2
+jalnic	-3
+castigat	3
+minunat	4
+minunat	4
+woo	3
+Woo hoo	3
+wooo	4
+woow	4
+uzat	-1
+îngrijorat	-3
+griji	-3
+îngrijorare	-3
+îngrijorătoare	-3
+mai rea	-3
+agrava	-3
+înrăutăţit	-3
+înrăutățirea	-3
+se agravează	-3
+venerat	3
+cel mai rău	-3
+in valoare de	2
+fără valoare	-2
+vrednic	2
+Wow	4
+woow	4
+wowww	4
+mânios	-3
+distruge	-2
+sfâşietoare	-2
+gresit	-2
+nelegiuire	-2
+nelegiuiri	-2
+nedreptăţit	-2
+nedreptăţit	-2
+pe nedrept	-2
+gresit	-2
+wtf	-4
+wtff	-4
+wtfff	-4
+xo	3
+xoxo	3
+xoxoxo	4
+xoxoxoxo	4
+da	1
+dor	1
+dai	2
+da	1
+tineresc	2
+naibii	-2
+delicios	3
+fanatic	-2
+fanatici	-2
+zelos 	2
